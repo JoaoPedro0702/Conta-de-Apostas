@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\bin\Debug\net6.0\PraticaC#.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\bin\Debug\net6.0\PraticaC#.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\bin\Debug\net6.0\PraticaC#.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\bin\Debug\net6.0\PraticaC#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\bin\Debug\net6.0\PraticaC#.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.csproj.AssemblyReference.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\refint\PraticaC#.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\PraticaC#.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\PraticaC#\obj\Debug\net6.0\ref\PraticaC#.dll
